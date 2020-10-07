@@ -2,10 +2,10 @@
 
 === Prepare Envniorment 
 
-* Order Ansible Tower Lab 
+* Orders Ansible Tower Lab 
 ** Services -> Catalogs -> OPENTLC Automation -> Ansible Tower Lab
 
-* Order Openstack Lab Enviorment 
+* Orders Openstack Lab Enviorment 
 ** Services -> Catalogs -> OPENTLC Automation -> Openstack for Ansible
 
 * Wait for the envs to be up.
